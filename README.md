@@ -1,0 +1,21 @@
+PAGE 1 -TOPICALS WEBSITE PG1-
+-added archive disclaimer.
+-email contact for content use.
+-added archive notice.
+
+PAGE 2 -TOPICALS WEBSITE PG2-
+-updated link on topicals page 2.
+-removed last link on page 2, socials page is taken down and is archive.
+-updated dates on pictures.
+-added archive notice.
+
+PAGE 3 -TSFIMM.HTML-
+-added archive disclaimer.
+-added translation for QOL.
+-added archive notice.
+
+PAGE 4 -FRIENDS PLACEHOLDER-
+-added archive notice.
+-removed up to date discord tags. (NONE of the discord tags are up to date)
+-removed source code link. (refer to LXRDatabase for source)
+-removed any inapropriate content
